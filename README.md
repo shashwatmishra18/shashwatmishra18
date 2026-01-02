@@ -1,6 +1,23 @@
-# 💫 About Me:
-👋 Hi, I’m Shashwat Mishra<br><br>🎓 B.Tech (CSE) Student @ KIET Group of Institutions, Ghaziabad<br>🎓 BS in Data Science & Applications @ IIT Madras<br>📍 India<br><br>I’m a Computer Science student focused on building strong problem-solving skills and solid CS fundamentals.<br>Currently balancing B.Tech coursework at KIET along with the IIT Madras BS Degree, while consistently grinding DSA & LeetCode.<br><br>🔭 I’m currently working on<br><br>Data Structures & Algorithms (C++)<br><br>LeetCode problem solving (patterns + optimization)<br><br>Strengthening core CS concepts<br><br>🌱 I’m currently learning<br><br>Advanced DSA & STL (C++)<br><br>Python for problem solving & future ML<br><br>Basics of Web Development (gradually)<br><br>🤝 I’m looking to collaborate on<br><br>Beginner–intermediate DSA-based projects<br><br>Learning-focused open-source contributions<br><br>💬 Ask me about<br><br>C / C++ fundamentals<br><br>DSA preparation & LeetCode consistency<br><br>Balancing B.Tech + IIT Madras BS<br><br>Guitar & music 🎸
+<h1 align="center">
+  Hi, I'm Shashwat Mishra
+</h1>
 
+<p align="center">
+  B.Tech CS @ KIET Group of Institutions, Ghaziabad <br/>
+  BS in Data Science & Applications @ IIT Madras
+</p>
+
+<p align="center">
+  I enjoy solving problems, building strong CS fundamentals, and learning consistently ⚡
+</p>
+  👨‍💻 About Me
+
+- 🎓 B.Tech (Computer Science) student at KIET Group of Institutions, Ghaziabad
+- 🎓 Pursuing BS in Data Science & Applications from IIT Madras
+- 💻 Strong focus on Data Structures & Algorithms and problem solving
+- 🧠 Regularly practicing DSA & LeetCode to improve logic and efficiency
+- 🚀 Interested in building a strong foundation in core computer science concepts
+- 🎸 Guitarist by passion, maintaining a balance between tech and creativity
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shxshwatmishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatmishra18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shxshwatmishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thissideshashwatmishra@gmail.com) 
