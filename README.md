@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  B.Tech CS @ KIET Group of Institutions, Ghaziabad <br/>
+  B.Tech CS @ KIET Deemed To Be University, Ghaziabad <br/>
   BS in Data Science & Applications @ IIT Madras
 </p>
 
