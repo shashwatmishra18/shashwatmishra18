@@ -8,7 +8,6 @@ Computer science student focused on full-stack development, backend systems, and
 - Pursuing a BS in Data Science & Applications at IIT Madras.
 - Building web applications while strengthening my understanding of Data Structures & Algorithms and core computer science fundamentals.
 
-Guitarist by passion.
 
 ## What I Work With
 
